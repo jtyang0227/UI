@@ -11,3 +11,12 @@ npm install --save-dev node-sass
 // 3. 컴파일
 parcel index.html
 ```
+---
+### SCSS
+1. $ npm install -g node-sass
+2. $ node-sass [옵션] <입력파일경로> [출력파일경로]
+3. $ node-sass css/style.scss css/style.css
+
+##### Gulp
+npm install --save-dev gulp gulp-sass
+

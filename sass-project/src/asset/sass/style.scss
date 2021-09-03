@@ -1,0 +1,10 @@
+$main-color: red;
+
+body {
+  font-size: 1.3rem;
+  background: $main-color;
+  padding: 10%;
+  h1 {
+    background: $main-color;
+  }
+}
